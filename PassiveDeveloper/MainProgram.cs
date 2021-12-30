@@ -12,4 +12,9 @@ namespace PassiveDeveloper
             Console.WriteLine("Two more lines");
         }
     }
+
+    public class PassiveCalculator
+    {
+
+    }
 }
