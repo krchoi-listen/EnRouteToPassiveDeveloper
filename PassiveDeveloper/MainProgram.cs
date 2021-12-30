@@ -10,4 +10,9 @@ namespace PassiveDeveloper
             Console.WriteLine("I just added this in Visual Studio");
         }
     }
+
+    public class PassiveCalculator
+    {
+
+    }
 }
